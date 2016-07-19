@@ -1,4 +1,4 @@
-# `node-es6-ts-babel`
+# `node-es6-modules-babel`
 
 ES Node modules with babel
 
